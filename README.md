@@ -21,7 +21,7 @@ Before running the script, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/walmart-price-scraper.git
+   git clone https://github.com/Habilahmed/walmart-scraper.git
    cd walmart scraper
 2. Install dependencies
    ```bash

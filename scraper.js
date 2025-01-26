@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 
 
 
-const url = 'YOURWALMARTAPI';
+const url = 'YOURWALMARTPRODUCTAPI';
 
 
 const headers = {
